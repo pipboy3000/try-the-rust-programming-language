@@ -1,5 +1,5 @@
 [package]
-name = "communicator"
+name = "restaurant"
 version = "0.1.0"
 authors = ["Asai Masami <shakeforme@gmail.com>"]
 edition = "2018"
